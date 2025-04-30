@@ -1,0 +1,30 @@
+{
+	"name": "rawdatagit",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "gitLs",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"P_rel_URl": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": {
+					"value": "@dataset().P_rel_URl",
+					"type": "Expression"
+				}
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
