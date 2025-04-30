@@ -1,0 +1,9 @@
+{
+	"name": "dev-olyproj-sp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f0112d33-9d93-41ce-adbf-7ee361354d08",
+		"tenantId": "cb260d51-50c8-4d08-9165-3914bd7476c1"
+	}
+}
