@@ -1,0 +1,16 @@
+resources:
+  pipelines:
+    pipeline_curated_gold:
+      name: curated_gold
+      clusters:
+        - label: default
+          node_type_id: Standard_DS3_v2
+          driver_node_type_id: Standard_DS3_v2
+          num_workers: 2
+      libraries:
+        - notebook:
+            path: /olympics/Curated_Entites
+      schema: gold_cur
+      development: true
+      catalog: olympics
+      data_sampling: false
