@@ -14,15 +14,12 @@ Configured with Git-based source control for pipeline development.
 Built parameterized pipelines using ForEach activity for dynamic execution.
 Ingested data directly from GitHub to ADLS.
 Generated ARM templates for seamless deployment across environments.
-<img width="1190" alt="Screenshot 2025-05-05 at 12 05 25 AM" src="https://github.com/user-attachments/assets/ead802e2-45a1-4d1d-b4f1-de2f608eb20d" />
-<img width="657" alt="Screenshot 2025-05-05 at 12 05 32 AM" src="https://github.com/user-attachments/assets/fa7e9057-72a5-4b8b-a17b-25554da619f0" />
 🔹 Azure Databricks
 Performed big data transformations using PySpark on Apache Spark clusters.
 Managed metadata with Unity Catalog and Hive Metastore integration.
 Built dynamic, parameterized notebooks using dbutils for runtime control.
 Orchestrated workflows using Databricks Workflows for modular pipeline execution.
 Implemented Change Data Capture (CDC) and Spark Structured Streaming for real-time processing.
-<img width="1036" alt="Screenshot 2025-05-04 at 4 05 08 PM" src="https://github.com/user-attachments/assets/37f750f4-d1ec-4eb4-90e7-4751ab17f812" />
 #📦 CI/CD Implementation
 Developed reusable templates and pipelines for automated deployment using Azure DevOps.
 Managed infrastructure and pipeline lifecycle using GitOps principles.
