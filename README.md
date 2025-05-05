@@ -20,10 +20,10 @@ Managed metadata with Unity Catalog and Hive Metastore integration.
 Built dynamic, parameterized notebooks using dbutils for runtime control.
 Orchestrated workflows using Databricks Workflows for modular pipeline execution.
 Implemented Change Data Capture (CDC) and Spark Structured Streaming for real-time processing.
-# 📦 CI/CD Implementation**
+# 📦 CI/CD Implementation
 Developed reusable templates and pipelines for automated deployment using Azure DevOps.
 Managed infrastructure and pipeline lifecycle using GitOps principles.
-**# 🔄 Data Flow Architecture**
+# 🔄 Data Flow Architecture**
 Source: Olympic dataset hosted on GitHub.
 Ingestion: ADF pipeline ingests data to ADLS.
 Processing: Databricks handles ETL with PySpark.
