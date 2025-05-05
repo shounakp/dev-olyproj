@@ -16,6 +16,7 @@ Ingested data directly from GitHub to ADLS.
 Generated ARM templates for seamless deployment across environments.
 🔹 Azure Databricks
 Performed big data transformations using PySpark on Apache Spark clusters.
+Created and managed Delta Live tables for ACID-compliant, scalable data storage.
 Managed metadata with Unity Catalog and Hive Metastore integration.
 Built dynamic, parameterized notebooks using dbutils for runtime control.
 Orchestrated workflows using Databricks Workflows for modular pipeline execution.
