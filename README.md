@@ -35,3 +35,5 @@ Orchestration: Databricks Workflows control job sequencing and monitoring.
 Built a scalable, production-ready data pipeline using Azure tools.
 Achieved automation and reproducibility via CI/CD and parameterization.
 Enabled robust orchestration and real-time insights on complex data using Apache Spark. 
+# Data architecture digram
+# ![image](https://github.com/user-attachments/assets/2c67ca74-65d3-4387-923f-06d99e83ae8b)
